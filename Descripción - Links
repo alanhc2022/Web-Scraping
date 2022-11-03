@@ -5,7 +5,6 @@ En el Script de Sunedu, extrae información de su WEB, usando una librería de O
 cuando hice una prueba de 100 DNI's la precisión fue 70/30, es decir, en 30 DNI el OCR reconoció mal los Captcha.
 Fue un proyecto realizado donde realizo mis prácticas, el código se puede mejorar aún más, he tenido ideas pero aún estoy viendo si es bueno aplicar los cambios
 para reducir el tiempo de ejecución, sobretodo que no me bloqueen la IP (en ese caso, puede ser dinámico).
-También he extraído algunas información de otras Web que es mucho más sencillo.
 Resalto que recién he entrado a estos temas, sin embargo, les adjunto link de los vídeos que me ayudaron a entender cierta lógica de cómo extraer información
 de la Web. Así mismo dejo link de las descargas que se necesita:
 
