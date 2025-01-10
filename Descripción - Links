@@ -3,7 +3,7 @@ Es algo básico para alguien que inicia en esta parte, teniendo en cuenta que to
 En el Script de Reniec, lo que hace es extraer información hacia una lista, de acuerdo a la tabla de información que genera al hacer la consulta.
 En el Script de Sunedu, extrae información de su WEB, usando una librería de OCR para saltar el Gatcha, que si bien es cierto no es 100% efectiva,
 cuando hice una prueba de 100 DNI's la precisión fue 70/30, es decir, en 30 DNI el OCR reconoció mal los Captcha.
-Fue un proyecto realizado donde realizo mis prácticas, el código se puede mejorar aún más, he tenido ideas pero aún estoy viendo si es bueno aplicar los cambios
+El código se puede mejorar aún más, he tenido ideas pero aún estoy viendo si es bueno aplicar los cambios
 para reducir el tiempo de ejecución, sobretodo que no me bloqueen la IP (en ese caso, puede ser dinámico).
 Resalto que recién he entrado a estos temas, sin embargo, les adjunto link de los vídeos que me ayudaron a entender cierta lógica de cómo extraer información
 de la Web. Así mismo dejo link de las descargas que se necesita:
